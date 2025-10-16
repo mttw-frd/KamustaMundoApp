@@ -6,5 +6,3 @@ class Task1
         Console.WriteLine("Kamusta Mundo!");
     }
 }
-
-// testing commit
