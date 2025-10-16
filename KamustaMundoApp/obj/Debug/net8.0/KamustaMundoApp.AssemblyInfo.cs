@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KamustaMundoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9bafb0a783a2df86ca54d587e28ed57882ef86c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0669884da415faae4fada7bc4da0cba62451c844")]
 [assembly: System.Reflection.AssemblyProductAttribute("KamustaMundoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KamustaMundoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
