@@ -1,0 +1,15 @@
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.AssemblyInfoInputs.cache
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.AssemblyInfo.cs
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.csproj.CoreCompileInputs.cache
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.sourcelink.json
+/workspaces/KamustaMundoApp/KamustaMundoApp/bin/Debug/net8.0/KamustaMundoApp
+/workspaces/KamustaMundoApp/KamustaMundoApp/bin/Debug/net8.0/KamustaMundoApp.deps.json
+/workspaces/KamustaMundoApp/KamustaMundoApp/bin/Debug/net8.0/KamustaMundoApp.runtimeconfig.json
+/workspaces/KamustaMundoApp/KamustaMundoApp/bin/Debug/net8.0/KamustaMundoApp.dll
+/workspaces/KamustaMundoApp/KamustaMundoApp/bin/Debug/net8.0/KamustaMundoApp.pdb
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.dll
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/refint/KamustaMundoApp.dll
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.pdb
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/KamustaMundoApp.genruntimeconfig.cache
+/workspaces/KamustaMundoApp/KamustaMundoApp/obj/Debug/net8.0/ref/KamustaMundoApp.dll
