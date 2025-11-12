@@ -2,23 +2,33 @@ class Task3
 {
     static void Main(String[] args)
     {
+
+        // Intialize number array and found bool
         int[] numbers = { 3, 7, 12, 19, 21, 25, 30 };
-        string number = "21";
+        bool found = false;
 
-        for(int i = 0; i < numbers.Length; i++)
+        // Ask for user input
+        Console.Write("Number to Find: ");
+        string number = Console.ReadLine();
+
+        // for loop
+        for (int i = 0; i < numbers.Length; i++)
         {
-
-            if ("21" == number)
+            // print successful if number is found, set found to true and break from loop
+            if (numbers[i].ToString() == number)
             {
                 Console.WriteLine("Number found at position " + i + "!");
-            }
-            else
-            {
+                found = true;
                 break;
             }
 
-            Console.WriteLine("Number not found in the list.");
-
         }
+        
+        // if found is false, print unsuccesssful
+        if (!found)
+        {
+            Console.WriteLine("Number not found in the list.");
+        }
+    
     }
 }
