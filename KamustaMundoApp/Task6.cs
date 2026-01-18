@@ -1,3 +1,7 @@
+
+// Matthew Ferdinand B. Curameng from Year 2 Block - D
+// for OOP subject by Marco Yimyaem
+
 class Task6
 {
     static void Main(String[] args)
@@ -14,7 +18,7 @@ class Task6
         Marco.DisplayInfo();
 
         //Get value of Marco's passing graded using class Student's IsPassed func
-        Console.WriteLine("Passed: " , Marco.IsPassed());
+        Console.WriteLine("Passed: " + Marco.IsPassed());
     }
 }
 
