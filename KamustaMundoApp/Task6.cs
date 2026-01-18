@@ -14,7 +14,7 @@ class Task6
         Marco.DisplayInfo();
 
         //Get value of Marco's passing graded using class Student's IsPassed func
-        Console.WriteLine("Passed: " Marco.IsPassed());
+        Console.WriteLine("Passed: " , Marco.IsPassed());
     }
 }
 
